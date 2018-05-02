@@ -36,5 +36,3 @@ https://raw.githubusercontent.com/dzfweb/nativescript-emoji/master/emoji.databas
     {{emoji.unicode}}
   </ion-item-group>
 ```
-
-in the source you the code
