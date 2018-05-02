@@ -5,8 +5,8 @@
 
 
 ######  - Create a service to call a json with all emojis, I finde the emogis in this page: 
-
-[emojis](https://raw.githubusercontent.com/dzfweb/nativescript-emoji/master/emoji.database.ts)
+https://raw.githubusercontent.com/dzfweb/nativescript-emoji/master/emoji.database.ts
+[lync emojis data](https://raw.githubusercontent.com/dzfweb/nativescript-emoji/master/emoji.database.ts)
 
 
 ```javascript
