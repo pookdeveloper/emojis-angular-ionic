@@ -4,7 +4,7 @@
 ## To show emjois in angular or ionic you can try this:
 
 
-######  - Create a service to call a json with all emojis, I finde the emogis in this page: 
+######  - Create a service to call a json with all emojis, you can finde the emojis in this page: 
 https://raw.githubusercontent.com/dzfweb/nativescript-emoji/master/emoji.database.ts
 [lync emojis data](https://raw.githubusercontent.com/dzfweb/nativescript-emoji/master/emoji.database.ts)
 
@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/dzfweb/nativescript-emoji/master/emoji.databas
   }
 ```
 
-###### - Print the emoji:
+###### - Print the emojis:
 
 ```html
   <ion-item-group *ngFor="let emoji of emojis">
